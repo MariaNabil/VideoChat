@@ -16,7 +16,7 @@
     "react-native-callkeep": "3.0.13",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-get-random-values": "^1.4.0",
-    "react-native-reanimated": "^1.9.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-router-flux": "4.2.0",
     "react-native-screens": "^2.8.0",
     "react-native-vector-icons": "6.6.0",
